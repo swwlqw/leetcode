@@ -53,3 +53,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Largest Number](problems/Largest Number .md)
 
 > [Length of Last Word](problems/Length of Last Word .md)
+
+> [Longest Valid Parentheses](problems/Longest Valid Parentheses .md)
