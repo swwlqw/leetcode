@@ -29,3 +29,5 @@
 > [Remove Duplicates from Sorted Array II](../problems/Remove Duplicates from Sorted Array II .md)
 
 > [Rotate Array](../problems/Rotate Array .md)
+
+> [Search in Rotated Sorted Array](../problems/Search in Rotated Sorted Array .md)
