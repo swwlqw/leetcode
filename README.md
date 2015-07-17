@@ -67,3 +67,5 @@ The solutions of leetcode, include Java, C, C++ version.
 ## P
 
 > [Palindrome Number](problems/Palindrome Number .md)
+
+> [Partition List](problems/Partition List .md)
