@@ -9,3 +9,5 @@
 > [Find Peak Element](../problems/Find Peak Element .md)
 
 > [Median of Two Sorted Arrays](../problems/Median of Two Sorted Arrays .md)
+
+> [Pow(x, n)](../problems/Pow(x, n) .md)
