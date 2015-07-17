@@ -29,3 +29,7 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Edit Distance](problems/Edit Distance .md)
 
 > [Excel Sheet Column Title](problems/Excel Sheet Column Title .md)
+
+## F
+
+> [Find Minimum in Rotated Sorted Array](problems/Find Minimum in Rotated Sorted Array .md)
