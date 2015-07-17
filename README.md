@@ -19,3 +19,7 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Contains Duplicate](problems/Contains Duplicate .md)
 
 > [Count Complete Tree Nodes](problems/Count Complete Tree Nodes .md)
+
+## D
+
+> [Delete Node in a Linked List](problems/Delete Node in a Linked List .md)
