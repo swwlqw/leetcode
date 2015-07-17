@@ -69,3 +69,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Palindrome Number](problems/Palindrome Number .md)
 
 > [Partition List](problems/Partition List .md)
+
+> [Pascal's Triangle](problems/Pascal's Triangle .md)
