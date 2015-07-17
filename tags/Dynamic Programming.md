@@ -7,3 +7,5 @@
 > [Edit Distance](../problems/Edit Distance .md)
 
 > [Longest Valid Parentheses](../problems/Longest Valid Parentheses .md)
+
+> [Unique Paths](../problems/Unique Paths .md)

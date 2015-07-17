@@ -43,3 +43,5 @@
 > [Subsets](../problems/Subsets .md)
 
 > [Two Sum](../problems/Two Sum .md)
+
+> [Unique Paths](../problems/Unique Paths .md)
