@@ -64,6 +64,8 @@ The solutions of leetcode, include Java, C, C++ version.
 
 > [Min Stack](problems/Min Stack .md)
 
+> [Minimum Size Subarray Sum](problems/Minimum Size Subarray Sum .md)
+
 ## P
 
 > [Palindrome Number](problems/Palindrome Number .md)
