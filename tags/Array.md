@@ -21,3 +21,5 @@
 > [Median of Two Sorted Arrays](../problems/Median of Two Sorted Arrays .md)
 
 > [Pascal's Triangle](../problems/Pascal's Triangle .md)
+
+> [Plus One](../problems/Plus One .md)

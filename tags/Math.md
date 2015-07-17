@@ -9,3 +9,5 @@
 > [Palindrome Number](../problems/Palindrome Number .md)
 
 > [Permutation Sequence](../problems/Permutation Sequence .md)
+
+> [Plus One](../problems/Plus One .md)
