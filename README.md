@@ -77,3 +77,7 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Plus One](problems/Plus One .md)
 
 > [Pow(x, n)](problems/Pow(x, n) .md)
+
+## R
+
+> [Remove Duplicates from Sorted Array](problems/Remove Duplicates from Sorted Array .md)
