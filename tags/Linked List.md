@@ -7,3 +7,5 @@
 > [Partition List](../problems/Partition List .md)
 
 > [Remove Linked List Elements](../problems/Remove Linked List Elements .md)
+
+> [Remove Nth Node From End of List](../problems/Remove Nth Node From End of List .md)
