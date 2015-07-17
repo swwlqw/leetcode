@@ -71,3 +71,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Partition List](problems/Partition List .md)
 
 > [Pascal's Triangle](problems/Pascal's Triangle .md)
+
+> [Permutation Sequence](problems/Permutation Sequence .md)
