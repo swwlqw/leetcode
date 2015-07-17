@@ -35,3 +35,5 @@
 > [Search in Rotated Sorted Array II](../problems/Search in Rotated Sorted Array II .md)
 
 > [Sort Colors](../problems/Sort Colors .md)
+
+> [Spiral Matrix](../problems/Spiral Matrix .md)
