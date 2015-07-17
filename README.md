@@ -95,3 +95,5 @@ The solutions of leetcode, include Java, C, C++ version.
 ## S
 
 > [Same Tree](problems/Same Tree .md)
+
+> [Search in Rotated Sorted Array](problems/Search in Rotated Sorted Array .md)
