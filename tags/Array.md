@@ -9,3 +9,5 @@
 > [Contains Duplicate](../problems/Contains Duplicate .md)
 
 > [Find Minimum in Rotated Sorted Array](../problems/Find Minimum in Rotated Sorted Array .md)
+
+> [Find Minimum in Rotated Sorted Array II](../problems/Find Minimum in Rotated Sorted Array II .md)
