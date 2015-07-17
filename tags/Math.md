@@ -7,3 +7,5 @@
 > [Integer to Roman](../problems/Integer to Roman .md)
 
 > [Palindrome Number](../problems/Palindrome Number .md)
+
+> [Permutation Sequence](../problems/Permutation Sequence .md)
