@@ -9,3 +9,5 @@
 > [Longest Valid Parentheses](../problems/Longest Valid Parentheses .md)
 
 > [Text Justification](../problems/Text Justification .md)
+
+> [Valid Palindrome](../problems/Valid Palindrome .md)
