@@ -7,3 +7,5 @@
 > [Best Time to Buy and Sell Stock III](../problems/Best Time to Buy and Sell Stock III .md)
 
 > [Contains Duplicate](../problems/Contains Duplicate .md)
+
+> [Find Minimum in Rotated Sorted Array](../problems/Find Minimum in Rotated Sorted Array .md)
