@@ -109,3 +109,7 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Spiral Matrix II](problems/Spiral Matrix II .md)
 
 > [Subsets](problems/Subsets .md)
+
+## T
+
+> [Text Justification](problems/Text Justification .md)
