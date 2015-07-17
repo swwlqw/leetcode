@@ -5,3 +5,5 @@
 > [Delete Node in a Linked List](../problems/Delete Node in a Linked List .md)
 
 > [Partition List](../problems/Partition List .md)
+
+> [Remove Linked List Elements](../problems/Remove Linked List Elements .md)
