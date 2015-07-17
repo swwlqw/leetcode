@@ -7,3 +7,5 @@
 > [Find Minimum in Rotated Sorted Array II](../problems/Find Minimum in Rotated Sorted Array II .md)
 
 > [Find Peak Element](../problems/Find Peak Element .md)
+
+> [Median of Two Sorted Arrays](../problems/Median of Two Sorted Arrays .md)
