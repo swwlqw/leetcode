@@ -113,3 +113,5 @@ The solutions of leetcode, include Java, C, C++ version.
 ## T
 
 > [Text Justification](problems/Text Justification .md)
+
+> [Two Sum](problems/Two Sum .md)
