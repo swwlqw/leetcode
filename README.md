@@ -75,3 +75,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Permutation Sequence](problems/Permutation Sequence .md)
 
 > [Plus One](problems/Plus One .md)
+
+> [Pow(x, n)](problems/Pow(x, n) .md)
