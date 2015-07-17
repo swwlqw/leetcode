@@ -83,3 +83,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Remove Duplicates from Sorted Array](problems/Remove Duplicates from Sorted Array .md)
 
 > [Remove Duplicates from Sorted Array II](problems/Remove Duplicates from Sorted Array II .md)
+
+> [Remove Linked List Elements](problems/Remove Linked List Elements .md)
