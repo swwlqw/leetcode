@@ -13,3 +13,5 @@
 > [Plus One](../problems/Plus One .md)
 
 > [Pow(x, n)](../problems/Pow(x, n) .md)
+
+> [Reverse Integer](../problems/Reverse Integer .md)
