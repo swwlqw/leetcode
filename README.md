@@ -63,3 +63,7 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Median of Two Sorted Arrays](problems/Median of Two Sorted Arrays .md)
 
 > [Min Stack](problems/Min Stack .md)
+
+## P
+
+> [Palindrome Number](problems/Palindrome Number .md)
