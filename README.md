@@ -61,3 +61,5 @@ The solutions of leetcode, include Java, C, C++ version.
 > [Maximum Depth of Binary Tree](problems/Maximum Depth of Binary Tree .md)
 
 > [Median of Two Sorted Arrays](problems/Median of Two Sorted Arrays .md)
+
+> [Min Stack](problems/Min Stack .md)
