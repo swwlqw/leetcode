@@ -17,3 +17,5 @@ The solutions of leetcode, include Java, C, C++ version.
 ## C
 
 > [Contains Duplicate](problems/Contains Duplicate .md)
+
+> [Count Complete Tree Nodes](problems/Count Complete Tree Nodes .md)
