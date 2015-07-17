@@ -23,3 +23,5 @@
 > [Pascal's Triangle](../problems/Pascal's Triangle .md)
 
 > [Plus One](../problems/Plus One .md)
+
+> [Remove Duplicates from Sorted Array](../problems/Remove Duplicates from Sorted Array .md)
