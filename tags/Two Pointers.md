@@ -1,5 +1,7 @@
 # Two Pointers
 
+> [Minimum Size Subarray Sum](../problems/Minimum Size Subarray Sum .md)
+
 > [Partition List](../problems/Partition List .md)
 
 > [Remove Duplicates from Sorted Array](../problems/Remove Duplicates from Sorted Array .md)

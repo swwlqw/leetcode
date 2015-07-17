@@ -20,6 +20,8 @@
 
 > [Median of Two Sorted Arrays](../problems/Median of Two Sorted Arrays .md)
 
+> [Minimum Size Subarray Sum](../problems/Minimum Size Subarray Sum .md)
+
 > [Pascal's Triangle](../problems/Pascal's Triangle .md)
 
 > [Plus One](../problems/Plus One .md)
